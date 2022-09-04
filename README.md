@@ -8,7 +8,7 @@ The development environment uses a virtual environment (aliased as `venv`) to lo
 - shutil
 - cv2 ([OpenCV](https://opencv.org/))
 
-The script is split into 3 files: `main.py`, `xml_script.py`, and `img_script`. The input data files are stored in the provided directory under the alias `Programming-Assignment-Data`.
+The script is split into 3 files: `main.py`, `xml_script.py`, and `img_script.py`. The input data files are stored in the provided directory under the alias `Programming-Assignment-Data`.
 
 
 ### Main Script
